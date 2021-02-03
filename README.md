@@ -8,3 +8,6 @@ Hola esto es un parrafo
 
 Esto esta en **negrita**
 Y esto esta en _cursiva_
+
+# Navegacion
+[Enlace a pagina 2](pagina2)
